@@ -9,5 +9,6 @@ class Main {
     catch (IOException io){
       System.err.println("errore lettura dati da tastiera");
     }
+    System.out.println("Stai per cifrare il messaggio!");
   }
 }
