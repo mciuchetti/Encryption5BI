@@ -11,6 +11,8 @@ class Main {
     }
     //commento nuovo
     
-    System.out.println("Stai per cifrare il messaggio!");
+    System.out.println("Stai per cifrare il messaggio! INIZIA");
+
+ 
   }
 }
