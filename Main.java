@@ -1,6 +1,6 @@
 class Main {
   public static void main(String[] args) {
-    //ihnserire parola chiave
+    //ihnserire parola chiave  
     String parolaChiave;
     System.out.println("Inserisci la parola chiave:");
     try{
